@@ -1,7 +1,6 @@
 <a href="https://developers.libra.org">
 	<img width="200" src="./.assets/libra.png" alt="Libra Logo" />
 </a>
-Test
 ---
 
 [![Documentation (master)](https://img.shields.io/badge/docs-master-59f)](https://libra.github.io/libra/)
